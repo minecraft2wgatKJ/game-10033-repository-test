@@ -7,4 +7,4 @@ this text is added _locally_ on the laptop.
 ## Some more changes
 
 1. this change was made on the github website.
-2. This change was made locally on the **laptop** once again __testing underline__
+2. This change was made locally on the **laptop** once again.
